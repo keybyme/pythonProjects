@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\ColdFusion2021\cfusion\wwwroot\Desarrollo\Python_Projects\Projecto1\env"
+VIRTUAL_ENV="C:\ColdFusion2021\cfusion\wwwroot\Desarrollo\Python_Projects\projecto1\pythonProjects\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
